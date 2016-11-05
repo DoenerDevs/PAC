@@ -1,4 +1,4 @@
 name: PAC
 version: 0.1
 author: Nitwel
-main: net.myplayplanet.PAC.Main
+main: de.apollodoener.pac.PAC
